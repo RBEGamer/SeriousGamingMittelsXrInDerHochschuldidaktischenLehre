@@ -1,8 +1,6 @@
-# WISSENSCHAFLICHES ARBEITEN WS2021/22
+# Anwendung des Serious Gamings mittels erweiterter Realität in der hochschuldidaktischen Lehre
 
 
-## TITLE
-`Anwendung des Serious Gamings mittels erweiterter Realität in der hochschuldidaktischen Lehre`
 
 ## ABSTRACT
 
