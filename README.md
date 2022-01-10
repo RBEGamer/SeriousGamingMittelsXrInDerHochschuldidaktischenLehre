@@ -29,7 +29,20 @@ mittels XR hervorgehoben werden können.
 * Computer Grafik
 * CG
 
+## CITE
 
+```tex
+@software{Ochsendorf_AnwendungSeriousGaming2022,
+author = {Ochsendorf, Marcel},
+license = {GPL-2.0},
+month = {1},
+title = {{Anwendung des Serious Gamings mittels erweiterter Realität in der hochschuldidaktischen Lehre}},
+url = {https://github.com/RBEGamer/WissenschaftlichesArbeitenWS2021/},
+version = {1.1.0},
+year = {2022}
+}
+
+```
 ## BUILD LATEX
 
 
